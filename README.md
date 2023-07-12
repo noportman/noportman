@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @noportman
+- 👀 I’m interested in water quality and water management through the exploration and development of geospatial data and earth observation.
+- 🌱 I’m currently learning geospatial and satellite imagery workflows through USGS APIs and Sentinel-2 available through Google Earth Engine.
+- 💞️ I’m looking to collaborate on geopspatial and remote sensing projects targeting water availability and water quality monitoring.
+- 📫 How to reach me: via email: noah.portman@gmail.com or via LinkedIn: [https://www.linkedin.com/in/noah-portman/]
