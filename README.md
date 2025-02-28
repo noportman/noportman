@@ -1,11 +1,11 @@
 👋 Hi, I’m @noportman
 
-I'm a passionate geospatial data enthusiast with a deep interest in water resources and sustainability data analysis. As a ClimateBase Fellow, I'm dedicated to leveraging data-driven insights and technology to address pressing environmental challenges. 🌍💧
+I'm a passionate data analyst with a strong focus on sustainability, geospatial insights, and data-driven decision-making. Currently, I'm enrolled in the MIT xPRO Professional Certificate in Data Science and Analytics, where I am honing my skills in statistical modeling, machine learning, and big data analysis to drive impactful solutions. 📊🌍
 
-With a strong background in geospatial analysis and a keen eye for detail, I love exploring the intersection of spatial data and environmental science. I believe that by understanding the intricate relationships between land, water, and climate, we can make informed decisions to foster a more sustainable future.
+With a background in geospatial analysis and environmental engineering, I enjoy exploring the intersection of data science, sustainability, and water resource management. I believe that leveraging data-driven insights can help inform more sustainable practices and improve our understanding of environmental systems.
 
-Through my GitHub projects, you'll find a collection of innovative tools, scripts, and visualizations aimed at unlocking the potential of geospatial data. I'm particularly focused on developing solutions for water resource management, as well as leveraging data analysis techniques to inform sustainable practices.
+Through my GitHub projects, you'll find a collection of tools, scripts, and visualizations that showcase my work in data analytics, geospatial modeling, and sustainability-focused insights. Whether it's working with large datasets, building predictive models, or visualizing spatial patterns, I strive to create solutions that make a measurable impact.
 
-I'm always excited to collaborate and learn from fellow data enthusiasts and environmentalists. So, if you're interested in geospatial data, water resources, or sustainability, feel free to connect and let's make a positive impact together! 🌱💧
+I'm always eager to collaborate and exchange ideas with fellow data scientists, engineers, and sustainability advocates. If you're interested in geospatial data, water resources, or sustainability analytics, let's connect and build something meaningful together! 🌱💡
 
 📫 How to reach me: via email: noah.portman@gmail.com or via LinkedIn: [https://www.linkedin.com/in/noah-portman/]
