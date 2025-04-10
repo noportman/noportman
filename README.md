@@ -1,6 +1,6 @@
 ## Noah Portman
 
-[![GitHub Badge](https://img.shields.io/github/followers/giswqs?style=social)](https://github.com/noportman?tab=followers)
+[![GitHub Badge](https://img.shields.io/github/followers/noportman?style=social)](https://github.com/noportman?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/noah-portman/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://noahportman.com/)
 
