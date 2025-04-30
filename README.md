@@ -1,4 +1,4 @@
-## Noah Portman
+# Noah Portman
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/noah-portman/)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://noahportman.com/)
