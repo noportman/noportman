@@ -3,7 +3,7 @@
 
 Hi, I’m @noportman
 
-I'm a passionate data analyst with a strong focus on sustainability, geospatial insights, and data-driven decision-making. Currently, I'm enrolled in the MIT xPRO Professional Certificate in Data Science and Analytics, where I am honing my skills in statistical modeling, machine learning, and big data analysis to drive impactful solutions. 📊🌍
+I'm a passionate data analyst with a strong focus on sustainability, geospatial insights, and data-driven decision-making. 📊🌍
 
 With a background in geospatial analysis and environmental engineering, I enjoy exploring the intersection of data science, sustainability, and water resource management. I believe that leveraging data-driven insights can help inform more sustainable practices and improve our understanding of environmental systems.
 
